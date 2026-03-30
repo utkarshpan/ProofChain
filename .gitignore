@@ -1,0 +1,26 @@
+echo # Dependencies > .gitignore
+echo node_modules/ >> .gitignore
+echo .env >> .gitignore
+echo .env.local >> .gitignore
+echo .env.development >> .gitignore
+echo .env.production >> .gitignore
+echo >> .gitignore
+echo # Python >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.py[cod] >> .gitignore
+echo *$py.class >> .gitignore
+echo .venv/ >> .gitignore
+echo venv/ >> .gitignore
+echo .Python >> .gitignore
+echo >> .gitignore
+echo # Backend static files >> .gitignore
+echo backend/app/static/uploads/ >> .gitignore
+echo backend/app/static/outputs/ >> .gitignore
+echo >> .gitignore
+echo # IDE >> .gitignore
+echo .vscode/ >> .gitignore
+echo .idea/ >> .gitignore
+echo >> .gitignore
+echo # OS >> .gitignore
+echo .DS_Store >> .gitignore
+echo Thumbs.db >> .gitignore

@@ -1,0 +1,15 @@
+{
+  "app_name": "PhonePe",
+  "amount_field": {
+    "x": 60,
+    "y": 40,
+    "width": 30,
+    "height": 8
+  },
+  "txn_field": {
+    "x": 20,
+    "y": 70,
+    "width": 60,
+    "height": 5
+  }
+}

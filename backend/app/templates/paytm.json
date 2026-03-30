@@ -1,0 +1,15 @@
+{
+  "app_name": "Paytm",
+  "amount_field": {
+    "x": 55,
+    "y": 35,
+    "width": 35,
+    "height": 8
+  },
+  "txn_field": {
+    "x": 20,
+    "y": 65,
+    "width": 60,
+    "height": 5
+  }
+}
